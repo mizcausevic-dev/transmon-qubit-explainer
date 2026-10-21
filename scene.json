@@ -11,40 +11,40 @@
       "glyph": "coldplate",
       "label": "Cryogenic chip",
       "role": "path",
-      "x": 0.12,
-      "y": 0.5
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "qubit",
       "label": "Josephson barrier",
       "role": "path",
-      "x": 0.31,
-      "y": 0.5
+      "x": 0.5,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "can",
       "label": "Unequal energy spacings",
       "role": "energy",
-      "x": 0.5,
-      "y": 0.5
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "qubit",
       "label": "Bloch-sphere rotation",
       "role": "path",
-      "x": 0.69,
-      "y": 0.5
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
       "glyph": "detector",
       "label": "Resonator readout",
       "role": "sense",
-      "x": 0.88,
-      "y": 0.5
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
